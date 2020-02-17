@@ -1,4 +1,4 @@
-# Redux Starter
+# redux
 
 > ⚛️💉 Getting Started with Redux.
 
